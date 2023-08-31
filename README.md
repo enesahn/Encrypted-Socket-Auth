@@ -10,7 +10,7 @@ Version ( encrypted )
 IV key (unencrypted)
 
 # Server
-The server decrypts the incoming encrypted values with the unencrypted IV key and sends the values to the KeyAuth API. And sends a response to the client according to the response.
+The server decrypts the incoming encrypted values with the unencrypted IV key and sends the values to the KeyAuth API. And sends a response to the client and discord webhook according to the response.
 
 # Credits
 https://github.com/KeyAuth-Archive/serverside-keyauth
