@@ -1,5 +1,5 @@
 # Encrypted Socket Auth
-Private AES256 Socket Auth System using KeyAuth
+Private AES256 Socket Auth System
 
 # Client
 I used CryptoPP for encryption. It generates the IV key randomly and sends it to the server. 
